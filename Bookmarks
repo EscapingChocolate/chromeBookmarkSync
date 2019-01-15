@@ -1809,10 +1809,10 @@
                "date_added": "13192008845760765",
                "id": "291",
                "meta_info": {
-                  "last_visited_desktop": "13192015306273821"
+                  "last_visited_desktop": "13192019998696350"
                },
                "name": "EscapingChocolate/chromeBookmarkSync",
-               "sync_transaction_version": "249",
+               "sync_transaction_version": "251",
                "type": "url",
                "url": "https://github.com/EscapingChocolate/chromeBookmarkSync"
             } ],
@@ -2193,10 +2193,10 @@
                "date_added": "13188392564707499",
                "id": "272",
                "meta_info": {
-                  "last_visited_desktop": "13192011866848754"
+                  "last_visited_desktop": "13192019996504112"
                },
                "name": "alpha · GitLab",
-               "sync_transaction_version": "241",
+               "sync_transaction_version": "250",
                "type": "url",
                "url": "https://git.tigerbrokers.net/alpha"
             }, {
@@ -2261,7 +2261,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "249",
+      "sync_transaction_version": "251",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
