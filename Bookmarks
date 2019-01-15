@@ -1,5 +1,5 @@
 {
-   "checksum": "42aafe29b4d22fa3428e64064bfdd815",
+   "checksum": "1cf3883e80763dbc73984a2dbc7090fc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1805,16 +1805,6 @@
                "sync_transaction_version": "134",
                "type": "url",
                "url": "http://heaphero.io/index.jsp"
-            }, {
-               "date_added": "13192008586045547",
-               "id": "290",
-               "meta_info": {
-                  "last_visited_desktop": "13192008668308581"
-               },
-               "name": "EscapingChocolate/chromeBookmarkSync",
-               "sync_transaction_version": "230",
-               "type": "url",
-               "url": "https://github.com/EscapingChocolate/chromeBookmarkSync"
             } ],
             "date_added": "13188279822960812",
             "date_modified": "13192008591740027",
@@ -2251,7 +2241,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "230",
+      "sync_transaction_version": "233",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
