@@ -1,5 +1,5 @@
 {
-   "checksum": "8e5487576bf57a8aeeba5b81e2ba2f75",
+   "checksum": "7fb706016eed8c1e9c334c17f4676d13",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1817,7 +1817,7 @@
                "url": "https://github.com/EscapingChocolate/chromeBookmarkSync"
             } ],
             "date_added": "13188279822960812",
-            "date_modified": "13192008845760765",
+            "date_modified": "13192015091917736",
             "id": "10",
             "name": "tools",
             "sync_transaction_version": "1",
@@ -2229,9 +2229,19 @@
                "sync_transaction_version": "203",
                "type": "url",
                "url": "https://wiki.tigerbrokers.net/pages/viewpage.action?pageId=3736827"
+            }, {
+               "date_added": "13192015091917736",
+               "id": "292",
+               "meta_info": {
+                  "last_visited_desktop": "13192015101407709"
+               },
+               "name": "发布记录",
+               "sync_transaction_version": "248",
+               "type": "url",
+               "url": "https://deploy.tigerfintech.com/admin/deploy/list.xhtml"
             } ],
             "date_added": "13188392548527148",
-            "date_modified": "13192008586045547",
+            "date_modified": "13192015096072092",
             "id": "271",
             "name": "laohu",
             "sync_transaction_version": "17",
@@ -2251,7 +2261,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "242",
+      "sync_transaction_version": "248",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
