@@ -8,5 +8,7 @@ cd $GIT_PATH
 cp /Users/zhoulisu/Library/Application\ Support/Google/Chrome/Default/Bookmarks .
 git add -A
 git commit -m $TIME
+git rebase origin/master
 git push origin master
+cp Bookmarks /Users/zhoulisu/Library/Application\ Support/Google/Chrome/Default/Bookmarks
 
