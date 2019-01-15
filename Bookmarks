@@ -1,5 +1,5 @@
 {
-   "checksum": "7fb706016eed8c1e9c334c17f4676d13",
+   "checksum": "b2d5838bd04fca1e2de6ddb0779f9615",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1078,9 +1078,19 @@
                "sync_transaction_version": "198",
                "type": "url",
                "url": "https://www.ibm.com/developerworks/cn/education/linux/l-emacs/l-emacs.html"
+            }, {
+               "date_added": "13192021669995959",
+               "id": "293",
+               "meta_info": {
+                  "last_visited_desktop": "13192021669996389"
+               },
+               "name": "Getting Started Tutorial - Google Chrome",
+               "sync_transaction_version": "259",
+               "type": "url",
+               "url": "https://developer.chrome.com/extensions/getstarted"
             } ],
             "date_added": "13188279822959768",
-            "date_modified": "13191500280364973",
+            "date_modified": "13192021672854897",
             "id": "6",
             "name": "study",
             "sync_transaction_version": "1",
@@ -2241,7 +2251,7 @@
                "url": "https://deploy.tigerfintech.com/admin/deploy/list.xhtml"
             } ],
             "date_added": "13188392548527148",
-            "date_modified": "13192015096072092",
+            "date_modified": "13192021669995959",
             "id": "271",
             "name": "laohu",
             "sync_transaction_version": "17",
@@ -2261,7 +2271,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "254",
+      "sync_transaction_version": "259",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
