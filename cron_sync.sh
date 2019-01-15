@@ -6,7 +6,7 @@ TIME=`date +%Y%m%d-%H%M%S`
 echo $BOOKMARK_PATH
 
 cd $GIT_PATH
-cp /Users/zhoulisu/Library/Application\ Support/Google/Chrome/Default/Bookmarks .
+cp $BOOKMARK_PATH .
 git add -A
 git commit -m $TIME
 git push origin master
