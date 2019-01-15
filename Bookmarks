@@ -1809,10 +1809,10 @@
                "date_added": "13192008845760765",
                "id": "291",
                "meta_info": {
-                  "last_visited_desktop": "13192008855024570"
+                  "last_visited_desktop": "13192008953972408"
                },
                "name": "EscapingChocolate/chromeBookmarkSync",
-               "sync_transaction_version": "238",
+               "sync_transaction_version": "239",
                "type": "url",
                "url": "https://github.com/EscapingChocolate/chromeBookmarkSync"
             } ],
@@ -2251,7 +2251,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "238",
+      "sync_transaction_version": "239",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
