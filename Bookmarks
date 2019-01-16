@@ -1082,10 +1082,10 @@
                "date_added": "13192021669995959",
                "id": "293",
                "meta_info": {
-                  "last_visited_desktop": "13192021669996389"
+                  "last_visited_desktop": "13192029469531057"
                },
                "name": "Getting Started Tutorial - Google Chrome",
-               "sync_transaction_version": "259",
+               "sync_transaction_version": "261",
                "type": "url",
                "url": "https://developer.chrome.com/extensions/getstarted"
             } ],
@@ -2271,7 +2271,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "259",
+      "sync_transaction_version": "261",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
