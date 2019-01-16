@@ -2193,10 +2193,10 @@
                "date_added": "13188392525679637",
                "id": "270",
                "meta_info": {
-                  "last_visited_desktop": "13191305318293192"
+                  "last_visited_desktop": "13192081141296527"
                },
                "name": "Omnibus - Omnibus - 老虎",
-               "sync_transaction_version": "161",
+               "sync_transaction_version": "263",
                "type": "url",
                "url": "https://wiki.tigerbrokers.net/display/Omnibus/Omnibus"
             }, {
@@ -2271,7 +2271,7 @@
          "name": "其他书签",
          "type": "folder"
       },
-      "sync_transaction_version": "262",
+      "sync_transaction_version": "263",
       "synced": {
          "children": [  ],
          "date_added": "13188278889056346",
